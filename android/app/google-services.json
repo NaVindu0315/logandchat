@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "400703490814",
+    "project_id": "registerandlogin-e8f20",
+    "storage_bucket": "registerandlogin-e8f20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400703490814:android:a4f1fba000ea8706e633af",
+        "android_client_info": {
+          "package_name": "com.navinduregandlogin.registerandlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400703490814-7io8vpkkphfnallevu5gme4hei51u0m0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByUq14cMw9QzY7JF6kc157gKSF5srtvdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400703490814-7io8vpkkphfnallevu5gme4hei51u0m0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
